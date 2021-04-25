@@ -1,0 +1,12 @@
+release
+debug
+*.pro.user*
+Makefile*
+*.autosave
+srv
+cache
+ui/ui_*
+ui_*
+*.rc
+*.rcc
+version.h
