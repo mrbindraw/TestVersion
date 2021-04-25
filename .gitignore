@@ -10,3 +10,4 @@ ui_*
 *.rc
 *.rcc
 version.h
+.qmake.stash
